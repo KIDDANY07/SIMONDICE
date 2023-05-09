@@ -1,2 +1,1 @@
-# SIMONDICE
-nada
+# Simon Dice
